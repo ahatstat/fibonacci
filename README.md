@@ -1,2 +1,2 @@
 # fibonacci
-Generate the nth Value of the Fibonacci Sequence
+Generate the nth value of the Fibonacci sequence
