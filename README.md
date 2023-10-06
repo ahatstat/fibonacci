@@ -4,7 +4,7 @@ Generate the nth value of the Fibonacci sequence.  Compare the execution time be
 You never know when you need to generate Fibonacci numbers. Always be prepared!
 
 ## Configure
-Requires cmake and a c compiler  
+Requires cmake and a c++ compiler  
 ```cmake -S. -Bbuild -DCMAKE_BUILD_TYPE=Release```
 
 ## Build
